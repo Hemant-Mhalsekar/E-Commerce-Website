@@ -3,7 +3,7 @@ import "./CSS/LoginSignup.css"
 
 function LoginSignup() {
   return (
-    <div className='loginsignup'>
+    <div className='loginSignup'>
       <div className='loginsignup-container'>
         <h1>Sign up</h1>
         <div className='loginsignup-fields'>
